@@ -72,3 +72,13 @@ Please check the repository's project board for ongoing and future enhancements.
 <p>
  <img src="images/User Actions.png" alt="User Actions - BSCM" height=400/>
 </p>
+
+
+
+#New enhancement /  New Features
+- added precise details of every entity in the project.
+- added auto updating  function when entitiy perform any action.
+- added disconnecting and connecting wallet seamlessly.
+- added new feature  the product which are for sale can be view by all users including non resigsted user.
+- added new QR code features for ery product when retailer enable it for sale.
+-added new component marketplace so that new user can access the product details scanning QR code.
